@@ -11,9 +11,9 @@
                          Spacing="10">
 
         <Label Text="Cálculo da Diária"
-               FontFamily="Kalam"
+               FontFamily="CerealBd"
                FontSize="50"
-               TextColor="{StaticResource Primary}" />
+               TextColor="{StaticResource Primary}"/>
 
         <Frame Padding="10">
             <VerticalStackLayout>
@@ -87,7 +87,7 @@
                     </VerticalStackLayout>
                 </Frame>
 
-                <Button Text="Avançar" Clicked="Button_Clicked"   />
+                <Button Text="Avançar" Clicked="Button_Clicked" BackgroundColor="Gray"  />
 
             </VerticalStackLayout>
         </Frame>

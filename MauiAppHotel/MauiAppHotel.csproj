@@ -57,9 +57,20 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiImage Remove="Resources\Images\HotelIcon.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Resources\Fonts\AirbnbCereal_W_Bd.otf" />
+	  <None Remove="Resources\Fonts\AirbnbCereal_W_Bk.otf" />
+	  <None Remove="Resources\Fonts\AirbnbCereal_W_Blk.otf" />
+	  <None Remove="Resources\Fonts\AirbnbCereal_W_Lt.otf" />
+	  <None Remove="Resources\Fonts\AirbnbCereal_W_Md.otf" />
+	  <None Remove="Resources\Fonts\AirbnbCereal_W_XBd.otf" />
 	  <None Remove="Resources\Fonts\Kalam-Bold.ttf" />
 	  <None Remove="Resources\Fonts\Kalam-Light.ttf" />
 	  <None Remove="Resources\Fonts\Kalam-Regular.ttf" />
+	  <None Remove="Resources\Images\HotelIcon.png" />
 	</ItemGroup>
 
 	<ItemGroup>

@@ -9,7 +9,7 @@
 
         <Label Text="Suíte Super Luxo"
                TextColor="{StaticResource Primary}"
-               FontFamily="Kalam"
+               FontFamily="CerealBd"
                FontSize="50"
                HorizontalTextAlignment="Center"/>
 
@@ -51,7 +51,8 @@
 
         <Button Text="Voltar"
                 HorizontalOptions="Center"
-                Clicked="Button_Clicked" />
+                Clicked="Button_Clicked"
+                BackgroundColor="Gray"/>
 
     </VerticalStackLayout>
 </ContentPage>
