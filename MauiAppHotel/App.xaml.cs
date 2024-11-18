@@ -8,27 +8,23 @@ namespace MauiAppHotel
         {
             new Quarto()
             {
-                Descricao = "Suíte Super Luxo",
+                Descricao = "Aurora Hall",
                 ValorDiariaAdulto = 110.0,
-                ValorDiariaCrianca = 55.0
             },
             new Quarto()
             {
-                Descricao = "Suíte Luxo",
+                Descricao = "Casa Harmonia",
                 ValorDiariaAdulto = 80.0,
-                ValorDiariaCrianca = 40.0
             },
             new Quarto()
             {
-                Descricao = "Suíte Single",
+                Descricao = "Espaço Versatile",
                 ValorDiariaAdulto = 50,
-                ValorDiariaCrianca = 25
             },
             new Quarto()
             {
-                Descricao = "Suíte Crise",
+                Descricao = "Salão Estelar",
                 ValorDiariaAdulto = 25,
-                ValorDiariaCrianca = 12.5
             }
         };
 
